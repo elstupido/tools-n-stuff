@@ -1,0 +1,21 @@
+{
+  "project": "PersonaPlex",
+  "architectural_decisions": [
+    {
+      "date": "2026-05-14",
+      "decision": "Establishment of the Big Brother Protocol",
+      "why": "To provide high-parameter reasoning (26B MoE) to the lightweight Antigravity agent."
+    },
+    {
+      "date": "2026-05-14",
+      "decision": "Vocal Throne Allocation",
+      "why": "19GB VRAM dedicated to Fish-Speech S2 Pro to ensure high-fidelity vocal synthesis without OOM errors during reasoning."
+    }
+  ],
+  "lessons_learned": [],
+  "active_goals": [
+    "Finalize Big Brother integration",
+    "Establish recursive tool use",
+    "Monitor Blackwell thermals and VRAM"
+  ]
+}
